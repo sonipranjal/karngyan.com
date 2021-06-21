@@ -1,10 +1,10 @@
 // Upload files in static/ So any file static/file.pdf -> /file.pdf is accessible at root
 
 export default {
-  name: 'gyan prakash karn',
+  name: 'Pranjal Soni',
   domain: 'template.karngyan.com', // add without https:// , used in meta tags and share urls
   image: '/images/bigheadkarngyan.png',
-  email: 'mail@karngyan.com',
+  email: 'pranjalsoni6256@gmail.com',
   googleAnalyticsV4: {
     enabled: false,
     id: ''
@@ -19,11 +19,11 @@ export default {
   // enable if you want comments and likes on posts
   // see how it looks on karngyan.com
   firebase: {
-    enabled: true
+    enabled: false
   },
   social: {
-    github: 'karngyan',
-    linkedin: 'karngyan',
+    github: 'sonipranjal',
+    linkedin: 'pranjalsoni',
     facebook: 'karnsometimes',
     twitter: 'gyankarn',
     instagram: 'karngyan.dev',
@@ -31,7 +31,7 @@ export default {
   },
   buyMeACoffee: {
     enabled: true,
-    url: 'https://www.buymeacoffee.com/karngyan'
+    url: 'https://www.buymeacoffee.com/pranjalsoni'
   },
   projects: {
     enabled: true,
